@@ -1,0 +1,10 @@
+api key: AIzaSyBcEMuXXrE6YsWZzfti0b3FlQERMN-XJEA
+
+channel id: UCENOHn8gcJ8jtEas7dkrICQ
+
+uploads id: "UUENOHn8gcJ8jtEas7dkrICQ"
+
+GET https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=6&playlistId=UUENOHn8gcJ8jtEas7dkrICQ&key=AIzaSyBcEMuXXrE6YsWZzfti0b3FlQERMN-XJEA
+
+
+https://www.youtube.com/watch?v=
